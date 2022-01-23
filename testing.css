@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    font-family: Courier New;
+  background: #fff;
+    font-size: 30px;
+  }
+  p {
+    font-size: 25px;
+  }
+  h1 {
+    font-size: 45px;
+    font-family: Garamond;
+    color: #2c2c2c;
+  }
+  
+  h2,
+  ul,
+  h3,
+  ol {
+    text-align: left;
+    font-size: 20px;
+  }
+  ul1 {
+    font-size: 20px;
+  }
+  
+  img {
+    border-radius: 50px;
+    width: 175px;
+  }
+  form {
+    text-align: left;
+    font-size: 30px;
+  }
+  p {
+    text-align: center;
+  }
+  textarea {
+    border-width: medium;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 65%;
+  }
+  
+  button {
+    vertical-align: middle;
+    font-size: 65%;
+    border-radius: 50px;
+    width: 40%;
+    height: 30px;
+  }
+  
+  h6 {
+    font-size: 30px;
+  }
+  
+  .form-control {
+    width: 60px;
+    height: 40px;
+  }
+  .input-check,
+  .input-radio {
+    font-family: Courier New;
+  }
+
+
+ .nav{
+  text-align: right;
+  font-size: 20px;
+  text-emphasis-color:#dddddd;
+  background-size: 20px;
+  background-color: #b3b3b4;
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+ }
+
+
+
+
+  
